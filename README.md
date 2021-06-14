@@ -35,6 +35,6 @@
 *  Firefox version 89 (64-bit) [Download Fiefox (64-bit)](https://www.mozilla.org/en-US/firefox/new/)
 *  Geckodriver 0.29.1 [Download Geckodriver](https://github.com/mozilla/geckodriver/releases)
   
-## Make sure you put all these files into same folder.
-
 #  If you don't have this combination of firefox and geckodriver at the time you are using then make sure you use the latest versions of both of them.
+  
+## Make sure you put all these files into same folder.
