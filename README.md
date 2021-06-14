@@ -1,10 +1,6 @@
-# OkCupid-autoliker
-# OkCupid-auto-intro-sender
-
 ## Using Python and Selenium Webdriver.
 
-
-
+# OkCupid-autoliker
 
 ## Run the script via cmd
 
@@ -19,6 +15,8 @@ python.exe Okcupid_autoliker.py
 Type your Email: <Email>
 
 Type your Password: <Password>
+
+# OkCupid-auto-intro-sender
   
 3. Running the Okcupid_intro_sender.py
   
