@@ -1,6 +1,6 @@
 ## Using Python and Selenium Webdriver.
 
-# OkCupid-autoliker
+#  OkCupid-autoliker
 
 ## Run the script via cmd
 
@@ -12,9 +12,9 @@
 
 * python.exe Okcupid_autoliker.py
 
-Type your Email: <Email>
+  Type your Email: <Email>
 
-Type your Password: <Password>
+  Type your Password: <Password>
 
 # OkCupid-auto-intro-sender
   
@@ -22,8 +22,8 @@ Type your Password: <Password>
   
 * python.exe Okcupid_autoliker.py
   
-Type your Email: <Email>
+  Type your Email: <Email>
   
-Type your Password: <Password>
+  Type your Password: <Password>
   
-Type the intro you wanna send to people you already liked: <Intro>
+  Type the intro you wanna send to people you already liked: <Intro>
