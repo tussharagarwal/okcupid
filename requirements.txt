@@ -1,0 +1,7 @@
+*Python already installed in system
+*selenium webdriver installed       (pip install selenium)
+
+*Firefox version 89 (64-bit) 
+*Geckodriver 0.29.1
+
+If you don't have this combination of firefox and geckodriver at the time you are using then make sure you use the latest versions of both of them.

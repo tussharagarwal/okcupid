@@ -1,0 +1,8 @@
+In cmd type
+
+pip install selenium
+
+python.exe Okcupid_intro_sender.py
+
+python.exe Okcupid_autoliker.py
+
