@@ -1,12 +1,12 @@
 # OkCupid-autoliker
 # OkCupid-auto-intro-sender
 
-##Using Python and Selenium Webdriver.
+## Using Python and Selenium Webdriver.
 
 
 
 
-##Run the script via cmd
+## Run the script via cmd
 
 1. First Install selenium webdriver
 pip install selenium
