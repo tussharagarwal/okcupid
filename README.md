@@ -37,4 +37,4 @@
   
 #  If you don't have this combination of firefox and geckodriver at the time you are using then make sure you use the latest versions of both of them.
   
-## Make sure you put all these files into same folder.
+## Make sure you put all these files into same folder before running the script.
